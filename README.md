@@ -1,5 +1,5 @@
 
-#Restaurant Review Application
+###Restaurant Review Application
 
 ## Overview
 This project focused on taking a static webpage with little to no responsive elements and converting it to a responsive, accessible and attractive application to find your next meal!
