@@ -1,3 +1,4 @@
+//service worker setup
 var appName = 'app-cache-1';
 let urlCache = [
   '/',
